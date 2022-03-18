@@ -1,0 +1,1 @@
+{'famille': "Ensemble formé par le père, la mère (ou l'un des deux) et les enfants\xa0:"}

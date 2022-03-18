@@ -1,0 +1,1 @@
+{'depuis': "Indique le début, le point de départ dans le temps d'une action, d'un état qui dure jusqu'au moment où l'on parle\xa0:"}

@@ -1,0 +1,1 @@
+{'national': 'Relatif à une nation\xa0; qui appartient à une nation, par opposition à'}

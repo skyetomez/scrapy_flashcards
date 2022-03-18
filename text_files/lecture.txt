@@ -1,0 +1,1 @@
+{'lecture': "Action de lire, de déchiffrer toute espèce de notation, de prendre connaissance d'un texte\xa0:"}

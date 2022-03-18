@@ -1,0 +1,1 @@
+{'parvenir': 'Arriver, venir à un point précis\xa0:'}

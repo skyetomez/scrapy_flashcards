@@ -1,0 +1,1 @@
+{'jury': "Ensemble des jurés appelés à titre temporaire à participer à l'exercice de la justice en cour d'assises"}

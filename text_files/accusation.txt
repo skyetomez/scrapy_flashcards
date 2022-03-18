@@ -1,0 +1,1 @@
+{'accusation': "Action d'accuser quelqu'un, de lui imputer un crime, une faute\xa0; ce dont on l'accuse\xa0:"}

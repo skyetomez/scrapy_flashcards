@@ -1,0 +1,1 @@
+{'atteindre': 'Gagner un lieu, y arriver en se déplaçant\xa0:'}

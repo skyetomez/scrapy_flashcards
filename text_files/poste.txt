@@ -1,0 +1,1 @@
+{'poste': "Établissement autonome de droit public (La Poste) chargé de l'acheminement et de la distribution des objets de correspondance (lettres, paquets, mandats, etc.), et de certaines activités bancaires spécifiques"}

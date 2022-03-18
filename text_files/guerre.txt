@@ -1,0 +1,1 @@
+{'guerre': "Lutte armée entre États. (La guerre entraîne l'application de règles particulières dans l'ensemble des rapports mutuels entre États\xa0; elle commence par une déclaration de guerre ou un ultimatum et se termine par un armistice et, en principe, par un traité de paix qui met fin à l'état de guerre.)\r\n\t\t\t"}

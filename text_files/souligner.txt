@@ -1,0 +1,1 @@
+{'souligner': "Tracer un trait sous un ou plusieurs mots d'un texte, en général pour le mettre en valeur\xa0:"}

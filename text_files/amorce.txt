@@ -1,0 +1,1 @@
+{'amorce': 'Produit servant à attirer les poissons.\r\n\t\t\t'}

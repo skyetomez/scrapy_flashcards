@@ -1,0 +1,1 @@
+{'dispositif': 'Ensemble de pièces constituant un mécanisme, un appareil, une machine quelconque\xa0:'}

@@ -1,0 +1,1 @@
+{'hi%C3%A9rarchie': 'Classification dans laquelle les termes classés sont dans une relation de subordination, chaque terme dépendant du précédent et commandant le suivant'}

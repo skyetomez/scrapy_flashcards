@@ -1,0 +1,1 @@
+{'superviser': "ontrôler la réalisation d'un travail accompli par d'autres\xa0:"}

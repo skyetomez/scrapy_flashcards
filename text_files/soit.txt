@@ -1,0 +1,1 @@
+{'soit': "En tête de phrase marque l'approbation\xa0; d'accord\xa0:"}

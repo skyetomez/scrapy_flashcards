@@ -1,0 +1,1 @@
+{'imminent': 'ui est sur le point de se produire\xa0:'}

@@ -1,0 +1,1 @@
+{'douleur': 'Sensation pénible, désagréable, ressentie dans une partie du corps\xa0:'}

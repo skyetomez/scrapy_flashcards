@@ -1,0 +1,1 @@
+{'yeux': 'Ensemble des deux yeux considérés comme exprimant le caractère, les sentiments, etc.\xa0:'}

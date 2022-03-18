@@ -1,0 +1,1 @@
+{'quitter': "Partir d'un lieu, en sortir\xa0:"}

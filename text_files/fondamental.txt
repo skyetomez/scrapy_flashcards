@@ -1,0 +1,1 @@
+{'fondamental': 'Qui sert de base, de'}

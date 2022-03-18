@@ -1,0 +1,1 @@
+{'rejet': 'Action de rejeter, de renvoyer hors de soi\xa0:'}

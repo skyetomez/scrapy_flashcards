@@ -1,0 +1,1 @@
+{'juger': "En parlant d'un tribunal, d'un juge, prononcer une sentence à propos de quelqu'un, d'une affaire.\r\n\t\t\t"}

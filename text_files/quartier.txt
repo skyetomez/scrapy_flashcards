@@ -1,0 +1,1 @@
+{'quartier': 'Portion de quelque chose divisé en quatre parties\xa0:'}

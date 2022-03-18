@@ -1,0 +1,1 @@
+{'prix': "Valeur d'échange, en monnaie, d'un bien, d'un service\xa0:"}

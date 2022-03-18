@@ -1,0 +1,1 @@
+{'accrue': "Maille supplémentaire qu'on ajoute au filet de pêche en la jetant entre deux mailles du rang supérieur"}
